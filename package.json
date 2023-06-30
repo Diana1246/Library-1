@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "pnotify": "^5.2.0"
+  },
+  "name": "laubrery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
